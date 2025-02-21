@@ -1,2 +1,2 @@
 # geometria-analítica---um-tratamento-vetorial
-(Ivan de Cardo | Paulo Boulos - 3ª edição)
+(Ivan de Carmo | Paulo Boulos - 3ª edição)
